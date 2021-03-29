@@ -5,3 +5,4 @@
  Et puis il va servir à savoir ce que l'autre veut, des petits détails importants quoi.
  Jvais pas tout révolutioner avec ça mais j'aurait du le faire avant tant pis.
  Bref remplissons notre tableau très honnetemetn, sans avoir peur de rien, et tout ira pour le mieux je l'espère !
+![avant, mtn et après](https://user-images.githubusercontent.com/81589270/112893742-5dbf7c80-90db-11eb-90ee-b07cbb219f0a.png)
